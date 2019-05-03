@@ -1,0 +1,22 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "Demo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukebakken/stackoverflow-55949567-1466825.git"
+  },
+  "author": "Luke Bakken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukebakken/stackoverflow-55949567-1466825/issues"
+  },
+  "homepage": "https://github.com/lukebakken/stackoverflow-55949567-1466825#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
